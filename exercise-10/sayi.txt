@@ -1,0 +1,5 @@
+sayi 1: 7
+sayi 2: 7
+sayi 3: 5
+sayi 4: 5
+sayi 5: 0
